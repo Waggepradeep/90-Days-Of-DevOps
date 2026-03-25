@@ -162,7 +162,7 @@ No shortcuts. Just consistent daily learning and building.
 
 ---
 
-## 🔥 Daily Routine
+## 🔥 Daily Routine (The Time Can Vary)
 
 ```
 1 hr  → Theory & reading
