@@ -32,7 +32,7 @@ No shortcuts. Just consistent daily learning and building.
 |-----|-------|-------|--------|
 | Day 01 | Linux Navigation & File System | [📝 Notes](Week-01-Linux/Day01-navigation.md) | ✅ |
 | Day 02 | File Permissions & Users | [📝 Notes](Week-01-Linux/Day02-permissions.md) | ✅ |
-| Day 03 | Processes & Package Manager | [📝 Notes](Week-01-Linux/day03-processes.md) | ⬜ |
+| Day 03 | Processes & Package Manager | [📝 Notes](Week-01-Linux/Day03-processes.md) | ✅ |
 | Day 04 | Networking Basics (IP, SSH, DNS) | [📝 Notes](Week-01-Linux/day04-networking.md) | ⬜ |
 | Day 05 | Bash Scripting Basics | [📝 Notes](Week-01-Linux/day05-bash-basics.md) | ⬜ |
 | Day 06 | Bash Scripting — Functions & Practice | [📝 Notes](Week-01-Linux/day06-bash-advanced.md) | ⬜ |
