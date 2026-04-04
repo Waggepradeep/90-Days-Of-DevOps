@@ -1,4 +1,4 @@
-nane: DevOps Learning CI
+name: DevOps Learning CI
 
 on:
   push:
