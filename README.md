@@ -1,18 +1,18 @@
 # 🚀 90 Days Of DevOps
 
 ![DevOps](https://img.shields.io/badge/DevOps-90%20Days%20Journey-yellow?style=for-the-badge&logo=linux&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Wpradeep-black?style=for-the-badge&logo=github)
+![GitHub](https://img.shields.io/badge/GitHub-Waggepradeep-black?style=for-the-badge&logo=github)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-green?style=for-the-badge)
 ![Started](https://img.shields.io/badge/Started-March%2025%2C%202026-blue?style=for-the-badge)
 
-> 📖 *"The journey of a thousand miles begins with a single step."*  
+> 📖 *"The journey of a thousand miles begins with a single step."*
 > This is my public learning journal — from complete beginner to job-ready DevOps Engineer in 90 days.
 
 ---
 
 ## 👋 About This Repo
 
-I'm documenting my entire DevOps learning journey here — every day, every concept, every project.  
+I'm documenting my entire DevOps learning journey here — every day, every concept, every project.
 No shortcuts. Just consistent daily learning and building.
 
 - 🗓️ **Start Date:** March 25, 2026
@@ -27,25 +27,32 @@ No shortcuts. Just consistent daily learning and building.
 
 ### 🟡 Phase 1 — Foundation (Weeks 1–4)
 
-#### Week 1–2 · Linux + Git
+#### Week 1 · Linux Fundamentals
+
 | Day | Topic | Notes | Status |
 |-----|-------|-------|--------|
 | Day 01 | Linux Navigation & File System | [📝 Notes](Week-01-Linux/Day01-navigation.md) | ✅ |
 | Day 02 | File Permissions & Users | [📝 Notes](Week-01-Linux/Day02-permissions.md) | ✅ |
 | Day 03 | Processes & Package Manager | [📝 Notes](Week-01-Linux/Day03-processes.md) | ✅ |
 | Day 04 | Networking Basics (IP, SSH, DNS) | [📝 Notes](Week-01-Linux/Day04-networking.md) | ✅ |
-| Day 05 | Bash Scripting Basics | [📝 Notes](Week-01-Linux/day05-bash-basics.md) | ⬜ |
-| Day 06 | Bash Scripting — Functions & Practice | [📝 Notes](Week-01-Linux/day06-bash-advanced.md) | ⬜ |
-| Day 07 | Review + Mini Project (Backup Script) | [📝 Notes](Week-01-Linux/day07-mini-project.md) | ⬜ |
-| Day 08 | Git Basics — init, add, commit | [📝 Notes](Week-02-Git/day08-git-basics.md) | ⬜ |
-| Day 09 | Git — log, diff, restore, .gitignore | [📝 Notes](Week-02-Git/day09-git-intermediate.md) | ⬜ |
-| Day 10 | Git Branches — create, merge, rebase | [📝 Notes](Week-02-Git/day10-branches.md) | ⬜ |
-| Day 11 | Git — stash, cherry-pick, conflicts | [📝 Notes](Week-02-Git/day11-advanced-git.md) | ⬜ |
-| Day 12 | GitHub — push, pull, forks, PRs | [📝 Notes](Week-02-Git/day12-github.md) | ⬜ |
-| Day 13 | GitHub — CI triggers, README writing | [📝 Notes](Week-02-Git/day13-github-advanced.md) | ⬜ |
-| Day 14 | Review + Push all notes to GitHub | [📝 Notes](Week-02-Git/day14-review.md) | ⬜ |
+| Day 05 | Bash Scripting Basics | [📝 Notes](Week-01-Linux/Day05-bash-basics.md) | ✅ |
+| Day 06 | Bash Scripting Advanced | [📝 Notes](Week-01-Linux/Day06-bash-advanced.md) | ✅ |
+| Day 07 | Review + System Health Monitor Project | [📝 Notes](Week-01-Linux/Day07-review-project.md) | ✅ |
+
+#### Week 2 · Git & GitHub
+
+| Day | Topic | Notes | Status |
+|-----|-------|-------|--------|
+| Day 08 | Git Basics — init, add, commit, log | [📝 Notes](Week-02-Git/Day08-git-basics.md) | ✅ |
+| Day 09 | Git Intermediate — diff, restore, stash, revert, reset | [📝 Notes](Week-02-Git/Day09-git-intermediate.md) | ✅ |
+| Day 10 | Git Branches — create, merge, rebase, conflicts | [📝 Notes](Week-02-Git/Day10-branches.md) | ✅ |
+| Day 11 | GitHub — SSH, push, pull, fork, clone, PRs | [📝 Notes](Week-02-Git/Day11-github.md) | ✅ |
+| Day 12 | GitHub CI Triggers + README Writing | [📝 Notes](Week-02-Git/Day12-github-ci-readme.md) | ✅ |
+| Day 13 | Git + GitHub Review | [📝 Notes](Week-02-Git/Day13-review.md) | ⬜ |
+| Day 14 | Push All Notes via Terminal + Week Review | [📝 Notes](Week-02-Git/Day14-terminal-push.md) | ⬜ |
 
 #### Week 3–4 · Cloud Fundamentals (AWS)
+
 | Day | Topic | Notes | Status |
 |-----|-------|-------|--------|
 | Day 15 | AWS Overview + Free Tier Setup | [📝 Notes](Week-03-Cloud/day15-aws-intro.md) | ⬜ |
@@ -68,6 +75,7 @@ No shortcuts. Just consistent daily learning and building.
 ### 🟠 Phase 2 — Core Skills (Weeks 5–8)
 
 #### Week 5–6 · Docker + Containers
+
 | Day | Topic | Notes | Status |
 |-----|-------|-------|--------|
 | Day 29 | Docker Intro — Images & Containers | [📝 Notes](Week-05-Docker/day29-docker-intro.md) | ⬜ |
@@ -80,6 +88,7 @@ No shortcuts. Just consistent daily learning and building.
 | Day 36 | Project 2 — Containerized Microservice | [📝 Notes](Week-06-Kubernetes/day36-project.md) | ⬜ |
 
 #### Week 7–8 · Terraform + Automation
+
 | Day | Topic | Notes | Status |
 |-----|-------|-------|--------|
 | Day 43 | Terraform Intro — Providers & Resources | [📝 Notes](Week-07-Terraform/day43-terraform-intro.md) | ⬜ |
@@ -96,6 +105,7 @@ No shortcuts. Just consistent daily learning and building.
 ### 🔴 Phase 3 — Production Ready (Weeks 9–12)
 
 #### Week 9–10 · CI/CD Pipelines
+
 | Day | Topic | Notes | Status |
 |-----|-------|-------|--------|
 | Day 57 | GitHub Actions — Workflows & Triggers | [📝 Notes](Week-09-CICD/day57-gh-actions.md) | ⬜ |
@@ -105,6 +115,7 @@ No shortcuts. Just consistent daily learning and building.
 | Day 61 | Project 1 — Full CI/CD Pipeline | [📝 Notes](Week-10-CICD-Advanced/day61-project.md) | ⬜ |
 
 #### Week 11–12 · Monitoring + Portfolio
+
 | Day | Topic | Notes | Status |
 |-----|-------|-------|--------|
 | Day 71 | Prometheus — Metrics & PromQL | [📝 Notes](Week-11-Monitoring/day71-prometheus.md) | ⬜ |
@@ -120,10 +131,11 @@ No shortcuts. Just consistent daily learning and building.
 
 | # | Project | Tech Used | Repo Link | Status |
 |---|---------|-----------|-----------|--------|
-| 1 | CI/CD Pipeline for Sample App | GitHub Actions, Docker | Coming Soon | ⬜ |
-| 2 | Containerized Microservice | Docker, Docker Compose | Coming Soon | ⬜ |
-| 3 | Cloud Deployment with IaC | Terraform, AWS | Coming Soon | ⬜ |
-| 4 | Monitoring Dashboard | Prometheus, Grafana | Coming Soon | ⬜ |
+| 1 | System Health Monitor | Bash | [📝 Notes](Week-01-Linux/Day07-review-project.md) | ✅ |
+| 2 | CI/CD Pipeline for Sample App | GitHub Actions, Docker | Coming Soon | ⬜ |
+| 3 | Containerized Microservice | Docker, Docker Compose | Coming Soon | ⬜ |
+| 4 | Cloud Deployment with IaC | Terraform, AWS | Coming Soon | ⬜ |
+| 5 | Monitoring Dashboard | Prometheus, Grafana | Coming Soon | ⬜ |
 
 ---
 
@@ -146,6 +158,9 @@ No shortcuts. Just consistent daily learning and building.
 ```
 90-Days-Of-DevOps/
 ├── README.md
+├── .github/
+│   └── workflows/
+│       └── ci.yml
 ├── Week-01-Linux/
 ├── Week-02-Git/
 ├── Week-03-Cloud/
@@ -162,18 +177,18 @@ No shortcuts. Just consistent daily learning and building.
 
 ---
 
-## 🔥 Daily Routine (The Time Can Vary)
+## 🔥 Daily Routine
 
 ```
 1 hr  → Theory & reading
-2 hrs → Hands-on practice
-       → Write notes in Markdown
-       → Push to GitHub daily
+2 hrs → Hands-on practice in Ubuntu terminal
+        → Write notes in Markdown
+        → Push to GitHub daily
 ```
 
 ---
 
 <p align="center">
-  <b>Follow my journey → github.com/Wpradeep</b><br><br>
+  <b>Follow my journey → github.com/Waggepradeep</b><br><br>
   Made with 💪 and lots of ☕
 </p>
