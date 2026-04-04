@@ -23,5 +23,5 @@ jobs:
 
       - name: Count total notes
         run: |
-          COUNT=$(find . -name "*.md" | wc -1)
+          COUNT=$(find . -name "*.md" | wc -l)
           echo "Total markdown files: $COUNT"
