@@ -49,7 +49,7 @@ No shortcuts. Just consistent daily learning and building.
 | Day 11 | GitHub — SSH, push, pull, fork, clone, PRs | [📝 Notes](Week-02-Git/Day11-github.md) | ✅ |
 | Day 12 | GitHub CI Triggers + README Writing | [📝 Notes](Week-02-Git/Day12-github-ci-readme.md) | ✅ |
 | Day 13 | Git + GitHub Review | [📝 Notes](Week-02-Git/Day13-review.md) | ✅ |
-| Day 14 | Push All Notes via Terminal + Week Review | [📝 Notes](Week-02-Git/Day14-terminal-push.md) | ⬜ |
+| Day 14 | Push All Notes via Terminal + Week Review | [📝 Notes](Week-02-Git/Day14-terminal-push.md) | ✅ |
 
 #### Week 3–4 · Cloud Fundamentals (AWS)
 
