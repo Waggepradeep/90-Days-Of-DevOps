@@ -12,7 +12,7 @@ jobs:
 
     steps:
       - name: Checkout code
-        uses: action/checkout@v3
+        uses: actions/checkout@v3
 
       - name: Check all markdown files exist
         run: |
