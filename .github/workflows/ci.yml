@@ -1,0 +1,27 @@
+nane: DevOps Learning CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  check-notes:
+    run-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: action/checkout@v3
+
+      - name: Check all markdown files exist
+        run: |
+          echo "Checking notes files..."
+          ls Week-01-Linux/
+          ls Week-02-Git/
+          echo "All notes found! "
+
+      - name: Count total notes
+        run: |
+          COUNT=$(find . -name "*.md" | wc -1)
+          echo "Total markdown files: $COUNT"
