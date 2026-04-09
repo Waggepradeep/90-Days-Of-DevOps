@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pradeep | DevOps Journey</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            background: #0f172a;
+            color: #e2e8f0;
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .container {
+            text-align: center;
+            padding: 40px;
+            max-width: 600px;
+        }
+        .badge {
+            display: inline-block;
+            background: #1e293b;
+            border: 1px solid #334155;
+            border-radius: 20px;
+            padding: 6px 16px;
+            font-size: 13px;
+            color: #38bdf8;
+            margin-bottom: 24px;
+        }
+        h1 {
+            font-size: 2.5rem;
+            color: #f8fafc;
+            margin-bottom: 12px;
+        }
+        h1 span { color: #38bdf8; }
+        .subtitle {
+            color: #94a3b8;
+            font-size: 1.1rem;
+            margin-bottom: 32px;
+        }
+        .cards {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 16px;
+            margin-bottom: 32px;
+        }
+        .card {
+            background: #1e293b;
+            border: 1px solid #334155;
+            border-radius: 12px;
+            padding: 20px;
+            text-align: left;
+        }
+        .card h3 { color: #38bdf8; font-size: 0.85rem; margin-bottom: 6px; }
+        .card p { color: #cbd5e1; font-size: 0.95rem; }
+        .footer {
+            color: #475569;
+            font-size: 0.85rem;
+        }
+        .footer span { color: #38bdf8; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="badge">🚀 90 Days of DevOps</div>
+        <h1>Hi, I'm <span>Pradeep</span></h1>
+        <p class="subtitle">Final Year CSE @ UVCE · Aspiring DevOps Engineer</p>
+        <div class="cards">
+            <div class="card">
+                <h3>☁️ CLOUD</h3>
+                <p>AWS EC2, S3, VPC, CLI</p>
+            </div>
+            <div class="card">
+                <h3>🐧 LINUX</h3>
+                <p>Ubuntu, Bash Scripting</p>
+            </div>
+            <div class="card">
+                <h3>🔧 DEVOPS</h3>
+                <p>Git, GitHub Actions</p>
+            </div>
+            <div class="card">
+                <h3>📦 COMING SOON</h3>
+                <p>Docker, K8s, Terraform</p>
+            </div>
+        </div>
+        <p class="footer">Hosted on <span>AWS S3</span> · Deployed via <span>AWS CLI</span></p>
+    </div>
+</body>
+</html>
