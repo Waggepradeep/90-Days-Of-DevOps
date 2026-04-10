@@ -15,11 +15,11 @@
 I'm documenting my entire DevOps learning journey here — every day, every concept, every project.
 No shortcuts. Just consistent daily learning and building.
 
-- 🗓️ **Start Date:** March 25, 2026
-- 🎯 **Goal:** Become a job-ready Junior DevOps Engineer
-- ⏱️ **Daily Time:** 3+ hours
-- 🌍 **Cloud:** AWS (Free Tier)
-- 💻 **OS:** Ubuntu (dual boot)
+* 🗓️ **Start Date:** March 25, 2026
+* 🎯 **Goal:** Become a job-ready Junior DevOps Engineer
+* ⏱️ **Daily Time:** 3+ hours
+* 🌍 **Cloud:** AWS (Free Tier)
+* 💻 **OS:** Ubuntu (dual boot)
 
 ---
 
@@ -27,78 +27,85 @@ No shortcuts. Just consistent daily learning and building.
 
 ### 🟡 Phase 1 — Foundation (Weeks 1–4)
 
-#### Week 1 · Linux Fundamentals
+#### Week 1–2 · Linux + Git
 
 | Day | Topic | Notes | Status |
-|-----|-------|-------|--------|
-| Day 01 | Linux Navigation & File System | [📝 Notes](Week-01-Linux/Day01-navigation.md) | ✅ |
-| Day 02 | File Permissions & Users | [📝 Notes](Week-01-Linux/Day02-permissions.md) | ✅ |
-| Day 03 | Processes & Package Manager | [📝 Notes](Week-01-Linux/Day03-processes.md) | ✅ |
-| Day 04 | Networking Basics (IP, SSH, DNS) | [📝 Notes](Week-01-Linux/Day04-networking.md) | ✅ |
-| Day 05 | Bash Scripting Basics | [📝 Notes](Week-01-Linux/Day05-bash-basics.md) | ✅ |
-| Day 06 | Bash Scripting Advanced | [📝 Notes](Week-01-Linux/Day06-bash-advanced.md) | ✅ |
-| Day 07 | Review + System Health Monitor Project | [📝 Notes](Week-01-Linux/Day07-review-project.md) | ✅ |
-
-#### Week 2 · Git & GitHub
-
-| Day | Topic | Notes | Status |
-|-----|-------|-------|--------|
-| Day 08 | Git Basics — init, add, commit, log | [📝 Notes](Week-02-Git/Day08-git-basics.md) | ✅ |
-| Day 09 | Git Intermediate — diff, restore, stash, revert, reset | [📝 Notes](Week-02-Git/Day09-git-intermediate.md) | ✅ |
-| Day 10 | Git Branches — create, merge, rebase, conflicts | [📝 Notes](Week-02-Git/Day10-branches.md) | ✅ |
-| Day 11 | GitHub — SSH, push, pull, fork, clone, PRs | [📝 Notes](Week-02-Git/Day11-github.md) | ✅ |
-| Day 12 | GitHub CI Triggers + README Writing | [📝 Notes](Week-02-Git/Day12-github-ci-readme.md) | ✅ |
-| Day 13 | Git + GitHub Review | [📝 Notes](Week-02-Git/Day13-review.md) | ✅ |
-| Day 14 | Push All Notes via Terminal + Week Review | [📝 Notes](Week-02-Git/Day14-terminal-push.md) | ✅ |
+| --- | --- | --- | --- |
+| Day 01 | Linux Navigation & File System | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-01-Linux/Day01-navigation.md) | ✅ |
+| Day 02 | File Permissions & Users | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-01-Linux/Day02-permissions.md) | ✅ |
+| Day 03 | Processes & Package Manager | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-01-Linux/Day03-processes.md) | ✅ |
+| Day 04 | Networking Basics (IP, SSH, DNS) | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-01-Linux/Day04-networking.md) | ✅ |
+| Day 05 | Bash Scripting Basics | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-01-Linux/day05-bash-basics.md) | ✅ |
+| Day 06 | Bash Scripting — Functions & Practice | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-01-Linux/day06-bash-advanced.md) | ✅ |
+| Day 07 | Review + Mini Project (Backup Script) | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-01-Linux/day07-mini-project.md) | ✅ |
+| Day 08 | Git Basics — init, add, commit | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-02-Git/day08-git-basics.md) | ✅ |
+| Day 09 | Git — log, diff, restore, .gitignore | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-02-Git/day09-git-intermediate.md) | ✅ |
+| Day 10 | Git Branches — create, merge, rebase | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-02-Git/day10-branches.md) | ✅ |
+| Day 11 | Git — stash, cherry-pick, conflicts | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-02-Git/day11-advanced-git.md) | ✅ |
+| Day 12 | GitHub — CI Triggers & README Writing | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-02-Git/Day12-github-ci-readme.md) | ✅ |
+| Day 13 | GitHub — Actions Advanced, Secrets, Matrix | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-02-Git/day13-github-advanced.md) | ✅ |
+| Day 14 | Review + Push all notes to GitHub | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-02-Git/day14-review.md) | ✅ |
 
 #### Week 3–4 · Cloud Fundamentals (AWS)
 
 | Day | Topic | Notes | Status |
-|-----|-------|-------|--------|
-| Day 15 | AWS Overview + Free Tier Setup | [📝 Notes](Week-03-Cloud/day15-aws-intro.md) | ⬜ |
-| Day 16 | IAM — Users, Roles, Policies | [📝 Notes](Week-03-Cloud/day16-iam.md) | ⬜ |
-| Day 17 | EC2 — Launch, SSH, Security Groups | [📝 Notes](Week-03-Cloud/day17-ec2.md) | ⬜ |
-| Day 18 | S3 — Buckets, Policies, Static Website | [📝 Notes](Week-03-Cloud/day18-s3.md) | ⬜ |
-| Day 19 | VPC — Subnets, Route Tables, IGW | [📝 Notes](Week-03-Cloud/day19-vpc.md) | ⬜ |
-| Day 20 | AWS CLI Setup + Basic Commands | [📝 Notes](Week-03-Cloud/day20-aws-cli.md) | ⬜ |
-| Day 21 | Review + Mini Project (Static site on S3) | [📝 Notes](Week-03-Cloud/day21-mini-project.md) | ⬜ |
-| Day 22 | Load Balancers + Auto Scaling | [📝 Notes](Week-04-Cloud-Advanced/day22-elb.md) | ⬜ |
-| Day 23 | RDS + DynamoDB Basics | [📝 Notes](Week-04-Cloud-Advanced/day23-databases.md) | ⬜ |
-| Day 24 | CloudWatch — Logs & Alerts | [📝 Notes](Week-04-Cloud-Advanced/day24-cloudwatch.md) | ⬜ |
-| Day 25 | Route 53 + DNS Management | [📝 Notes](Week-04-Cloud-Advanced/day25-route53.md) | ⬜ |
-| Day 26 | Lambda — Serverless Basics | [📝 Notes](Week-04-Cloud-Advanced/day26-lambda.md) | ⬜ |
-| Day 27 | Cloud Security Best Practices | [📝 Notes](Week-04-Cloud-Advanced/day27-security.md) | ⬜ |
-| Day 28 | Review + Polish S3 Project | [📝 Notes](Week-04-Cloud-Advanced/day28-review.md) | ⬜ |
+| --- | --- | --- | --- |
+| Day 15 | AWS Overview + Free Tier Setup | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-03-Cloud/day15-aws-intro.md) | ✅ |
+| Day 16 | IAM — Users, Roles, Policies | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-03-Cloud/day16-iam.md) | ✅ |
+| Day 17 | EC2 — Launch, SSH, Security Groups | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-03-Cloud/day17-ec2.md) | ✅ |
+| Day 18 | S3 — Buckets, Policies, Static Website | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-03-Cloud/day18-s3.md) | ✅ |
+| Day 19 | VPC — Subnets, Route Tables, IGW | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-03-Cloud/day19-vpc.md) | ✅ |
+| Day 20 | AWS CLI Setup + Basic Commands | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-03-Cloud/day20-aws-cli.md) | ✅ |
+| Day 21 | Review + Mini Project (Static Site on S3 via CLI) | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-03-Cloud/day21-mini-project.md) | ✅ |
+| Day 22 | Load Balancers + Auto Scaling | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-04-Cloud-Advanced/day22-alb-asg.md) | ✅ |
+| Day 23 | RDS + DynamoDB Basics | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-04-Cloud-Advanced/day23-rds-dynamodb.md) | ✅ |
+| Day 24 | CloudWatch — Logs & Alerts | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-04-Cloud-Advanced/day24-cloudwatch.md) | ✅ |
+| Day 25 | Route 53 + DNS Management | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-04-Cloud-Advanced/day25-route53.md) | ⬜ |
+| Day 26 | Lambda — Serverless Basics | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-04-Cloud-Advanced/day26-lambda.md) | ⬜ |
+| Day 27 | Cloud Security Best Practices | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-04-Cloud-Advanced/day27-security.md) | ⬜ |
+| Day 28 | Review + Polish S3 Project | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-04-Cloud-Advanced/day28-review.md) | ⬜ |
 
 ---
 
 ### 🟠 Phase 2 — Core Skills (Weeks 5–8)
 
-#### Week 5–6 · Docker + Containers
+#### Week 5–6 · Docker + Kubernetes
 
 | Day | Topic | Notes | Status |
-|-----|-------|-------|--------|
-| Day 29 | Docker Intro — Images & Containers | [📝 Notes](Week-05-Docker/day29-docker-intro.md) | ⬜ |
-| Day 30 | Dockerfile — Writing & Building | [📝 Notes](Week-05-Docker/day30-dockerfile.md) | ⬜ |
-| Day 31 | Docker Volumes & Networks | [📝 Notes](Week-05-Docker/day31-volumes-networks.md) | ⬜ |
-| Day 32 | Docker Compose | [📝 Notes](Week-05-Docker/day32-compose.md) | ⬜ |
-| Day 33 | Docker Hub + ECR (Registry) | [📝 Notes](Week-05-Docker/day33-registry.md) | ⬜ |
-| Day 34 | Kubernetes — Pods & Deployments | [📝 Notes](Week-06-Kubernetes/day34-k8s-basics.md) | ⬜ |
-| Day 35 | Kubernetes — Services & kubectl | [📝 Notes](Week-06-Kubernetes/day35-k8s-services.md) | ⬜ |
-| Day 36 | Project 2 — Containerized Microservice | [📝 Notes](Week-06-Kubernetes/day36-project.md) | ⬜ |
+| --- | --- | --- | --- |
+| Day 29 | Docker Intro — Images & Containers | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-05-Docker/day29-docker-intro.md) | ⬜ |
+| Day 30 | Dockerfile — Writing & Building | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-05-Docker/day30-dockerfile.md) | ⬜ |
+| Day 31 | Docker Volumes & Networks | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-05-Docker/day31-volumes-networks.md) | ⬜ |
+| Day 32 | Docker Compose — Multi-Container Apps | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-05-Docker/day32-compose.md) | ⬜ |
+| Day 33 | Docker Hub + ECR — Image Registry | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-05-Docker/day33-registry.md) | ⬜ |
+| Day 34 | Kubernetes — Architecture & Core Concepts | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-06-Kubernetes/day34-k8s-basics.md) | ⬜ |
+| Day 35 | Kubernetes — Pods, Deployments & ReplicaSets | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-06-Kubernetes/day35-k8s-pods-deployments.md) | ⬜ |
+| Day 36 | Kubernetes — Services & kubectl Commands | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-06-Kubernetes/day36-k8s-services.md) | ⬜ |
+| Day 37 | Kubernetes — ConfigMaps & Secrets | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-06-Kubernetes/day37-k8s-configmaps-secrets.md) | ⬜ |
+| Day 38 | Kubernetes — Ingress & Namespaces | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-06-Kubernetes/day38-k8s-ingress-namespaces.md) | ⬜ |
+| Day 39 | Kubernetes — Persistent Volumes & Storage | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-06-Kubernetes/day39-k8s-storage.md) | ⬜ |
+| Day 40 | Helm — Package Manager for Kubernetes | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-06-Kubernetes/day40-helm.md) | ⬜ |
+| Day 41 | Kubernetes on AWS — EKS Overview | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-06-Kubernetes/day41-eks.md) | ⬜ |
+| Day 42 | Project 2 — Containerized Microservice on K8s | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-06-Kubernetes/day42-project.md) | ⬜ |
 
-#### Week 7–8 · Terraform + Automation
+#### Week 7–8 · Terraform + Ansible + Automation
 
 | Day | Topic | Notes | Status |
-|-----|-------|-------|--------|
-| Day 43 | Terraform Intro — Providers & Resources | [📝 Notes](Week-07-Terraform/day43-terraform-intro.md) | ⬜ |
-| Day 44 | Terraform — Variables & Outputs | [📝 Notes](Week-07-Terraform/day44-variables.md) | ⬜ |
-| Day 45 | Terraform — State & Remote Backend | [📝 Notes](Week-07-Terraform/day45-state.md) | ⬜ |
-| Day 46 | Terraform Modules | [📝 Notes](Week-07-Terraform/day46-modules.md) | ⬜ |
-| Day 47 | Ansible — Playbooks & Inventory | [📝 Notes](Week-08-Ansible/day47-ansible-basics.md) | ⬜ |
-| Day 48 | Ansible — Roles & Handlers | [📝 Notes](Week-08-Ansible/day48-ansible-advanced.md) | ⬜ |
-| Day 49 | Python for DevOps — boto3 & os module | [📝 Notes](Week-08-Ansible/day49-python-devops.md) | ⬜ |
-| Day 50 | Project 3 — Provision AWS VPC with Terraform | [📝 Notes](Week-08-Ansible/day50-project.md) | ⬜ |
+| --- | --- | --- | --- |
+| Day 43 | Terraform Intro — Providers & Resources | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-07-Terraform/day43-terraform-intro.md) | ⬜ |
+| Day 44 | Terraform — Variables & Outputs | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-07-Terraform/day44-variables.md) | ⬜ |
+| Day 45 | Terraform — State & Remote Backend (S3) | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-07-Terraform/day45-state.md) | ⬜ |
+| Day 46 | Terraform — Modules & Reusable Infrastructure | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-07-Terraform/day46-modules.md) | ⬜ |
+| Day 47 | Terraform — Workspaces & Environments | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-07-Terraform/day47-workspaces.md) | ⬜ |
+| Day 48 | Ansible — Playbooks & Inventory | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-08-Ansible/day48-ansible-basics.md) | ⬜ |
+| Day 49 | Ansible — Roles, Handlers & Vault | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-08-Ansible/day49-ansible-advanced.md) | ⬜ |
+| Day 50 | Python for DevOps — boto3 & os module | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-08-Ansible/day50-python-devops.md) | ⬜ |
+| Day 51 | Python for DevOps — Automating AWS with boto3 | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-08-Ansible/day51-boto3-advanced.md) | ⬜ |
+| Day 52 | Shell Scripting for DevOps — Advanced Patterns | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-08-Ansible/day52-shell-scripting.md) | ⬜ |
+| Day 53 | Infrastructure as Code — Best Practices | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-08-Ansible/day53-iac-best-practices.md) | ⬜ |
+| Day 54 | Project 3 — Provision AWS VPC + EC2 with Terraform | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-08-Ansible/day54-project.md) | ⬜ |
+| Day 55 | Project 3 continued — Configure EC2 with Ansible | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-08-Ansible/day55-project-ansible.md) | ⬜ |
+| Day 56 | Week 7–8 Review + Polish Project 3 | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-08-Ansible/day56-review.md) | ⬜ |
 
 ---
 
@@ -107,34 +114,44 @@ No shortcuts. Just consistent daily learning and building.
 #### Week 9–10 · CI/CD Pipelines
 
 | Day | Topic | Notes | Status |
-|-----|-------|-------|--------|
-| Day 57 | GitHub Actions — Workflows & Triggers | [📝 Notes](Week-09-CICD/day57-gh-actions.md) | ⬜ |
-| Day 58 | GitHub Actions — Jobs, Secrets, Matrix | [📝 Notes](Week-09-CICD/day58-gh-actions-advanced.md) | ⬜ |
-| Day 59 | GitLab CI — .gitlab-ci.yml | [📝 Notes](Week-09-CICD/day59-gitlab-ci.md) | ⬜ |
-| Day 60 | Deployment Strategies — Blue/Green, Canary | [📝 Notes](Week-09-CICD/day60-deploy-strategies.md) | ⬜ |
-| Day 61 | Project 1 — Full CI/CD Pipeline | [📝 Notes](Week-10-CICD-Advanced/day61-project.md) | ⬜ |
+| --- | --- | --- | --- |
+| Day 57 | GitHub Actions — Workflows & Triggers | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-09-CICD/day57-gh-actions.md) | ⬜ |
+| Day 58 | GitHub Actions — Jobs, Secrets, Matrix | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-09-CICD/day58-gh-actions-advanced.md) | ⬜ |
+| Day 59 | GitHub Actions — Deploy to AWS (EC2 + S3) | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-09-CICD/day59-gh-actions-deploy.md) | ⬜ |
+| Day 60 | Jenkins — Install, Setup & First Pipeline | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-09-CICD/day60-jenkins-basics.md) | ⬜ |
+| Day 61 | Jenkins — Jenkinsfile & Declarative Pipelines | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-09-CICD/day61-jenkinsfile.md) | ⬜ |
+| Day 62 | GitLab CI — .gitlab-ci.yml | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-09-CICD/day62-gitlab-ci.md) | ⬜ |
+| Day 63 | Deployment Strategies — Blue/Green, Canary, Rolling | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-09-CICD/day63-deploy-strategies.md) | ⬜ |
+| Day 64 | GitOps — Principles & ArgoCD Intro | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-10-CICD-Advanced/day64-gitops-argocd.md) | ⬜ |
+| Day 65 | Docker + CI/CD — Build & Push Images in Pipeline | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-10-CICD-Advanced/day65-docker-cicd.md) | ⬜ |
+| Day 66 | CD to AWS — Deploy Containers to ECS via Pipeline | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-10-CICD-Advanced/day66-ecs-deploy.md) | ⬜ |
+| Day 67 | Security in CI/CD — Secrets, SAST, Dependency Scanning | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-10-CICD-Advanced/day67-cicd-security.md) | ⬜ |
+| Day 68 | Project 4 — Full CI/CD Pipeline (Code → Build → Test → Deploy) | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-10-CICD-Advanced/day68-project.md) | ⬜ |
+| Day 69 | Project 4 continued — Add Docker + AWS Deploy | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-10-CICD-Advanced/day69-project-continued.md) | ⬜ |
+| Day 70 | Week 9–10 Review + Polish CI/CD Project | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-10-CICD-Advanced/day70-review.md) | ⬜ |
 
 #### Week 11–12 · Monitoring + Portfolio
 
 | Day | Topic | Notes | Status |
-|-----|-------|-------|--------|
-| Day 71 | Prometheus — Metrics & PromQL | [📝 Notes](Week-11-Monitoring/day71-prometheus.md) | ⬜ |
-| Day 72 | Grafana — Dashboards & Alerts | [📝 Notes](Week-11-Monitoring/day72-grafana.md) | ⬜ |
-| Day 73 | Log Management — CloudWatch / ELK | [📝 Notes](Week-11-Monitoring/day73-logging.md) | ⬜ |
-| Day 74 | SLOs, SLAs, SLIs — SRE Basics | [📝 Notes](Week-11-Monitoring/day74-sre-basics.md) | ⬜ |
-| Day 75 | Project 4 — Monitoring Dashboard | [📝 Notes](Week-12-Portfolio/day75-project.md) | ⬜ |
-| Day 76–90 | Polish all projects + Write READMEs | [📝 Notes](Week-12-Portfolio/) | ⬜ |
+| --- | --- | --- | --- |
+| Day 71 | Prometheus — Metrics & PromQL | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-11-Monitoring/day71-prometheus.md) | ⬜ |
+| Day 72 | Grafana — Dashboards & Alerts | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-11-Monitoring/day72-grafana.md) | ⬜ |
+| Day 73 | Log Management — CloudWatch / ELK Stack | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-11-Monitoring/day73-logging.md) | ⬜ |
+| Day 74 | SLOs, SLAs, SLIs — SRE Basics | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-11-Monitoring/day74-sre-basics.md) | ⬜ |
+| Day 75 | Project 5 — Monitoring Dashboard (Prometheus + Grafana) | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-12-Portfolio/day75-project.md) | ⬜ |
+| Day 76–90 | Polish all projects + Write READMEs + Job Prep | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-12-Portfolio) | ⬜ |
 
 ---
 
 ## 🛠️ Projects Built
 
 | # | Project | Tech Used | Repo Link | Status |
-|---|---------|-----------|-----------|--------|
-| 1 | System Health Monitor | Bash | [📝 Notes](Week-01-Linux/Day07-review-project.md) | ✅ |
-| 2 | CI/CD Pipeline for Sample App | GitHub Actions, Docker | Coming Soon | ⬜ |
-| 3 | Containerized Microservice | Docker, Docker Compose | Coming Soon | ⬜ |
-| 4 | Cloud Deployment with IaC | Terraform, AWS | Coming Soon | ⬜ |
+| --- | --- | --- | --- | --- |
+| 0 | S3 Static Site — DevOps Portfolio Page | AWS S3, AWS CLI, Bash | [🔗 Live](http://devops-day21-pradeep-001.s3-website.ap-south-1.amazonaws.com) | ✅ |
+| 1 | CI/CD Pipeline for Sample App | GitHub Actions, Docker | Coming Soon | ⬜ |
+| 2 | Containerized Microservice on Kubernetes | Docker, K8s, Helm | Coming Soon | ⬜ |
+| 3 | Cloud Infrastructure with IaC | Terraform, Ansible, AWS | Coming Soon | ⬜ |
+| 4 | Full CI/CD Pipeline — Code to Deploy | GitHub Actions, Jenkins, ECS | Coming Soon | ⬜ |
 | 5 | Monitoring Dashboard | Prometheus, Grafana | Coming Soon | ⬜ |
 
 ---
@@ -142,13 +159,15 @@ No shortcuts. Just consistent daily learning and building.
 ## 📚 Free Resources I'm Using
 
 | Topic | Resource |
-|-------|----------|
+| --- | --- |
 | Linux | [Linux Journey](https://linuxjourney.com) · [OverTheWire Bandit](https://overthewire.org/wargames/bandit/) |
 | Git | [Pro Git Book](https://git-scm.com/book/en/v2) · [LearnGitBranching](https://learngitbranching.js.org) |
 | AWS | [AWS Skill Builder](https://skillbuilder.aws) · [FreeCodeCamp AWS](https://www.youtube.com/watch?v=ulprqHHWlng) |
 | Docker | [Play with Docker](https://labs.play-with-docker.com) · [TechWorld with Nana](https://www.youtube.com/watch?v=3c-iBn73dDE) |
+| Kubernetes | [Kubernetes Docs](https://kubernetes.io/docs/home/) · [KodeKloud](https://kodekloud.com) |
 | Terraform | [HashiCorp Tutorials](https://developer.hashicorp.com/terraform/tutorials) |
-| CI/CD | [GitHub Actions Docs](https://docs.github.com/en/actions) |
+| Ansible | [Ansible Docs](https://docs.ansible.com) |
+| CI/CD | [GitHub Actions Docs](https://docs.github.com/en/actions) · [Jenkins Docs](https://www.jenkins.io/doc/) |
 | Monitoring | [Prometheus Docs](https://prometheus.io/docs) · [Grafana Play](https://play.grafana.org) |
 
 ---
@@ -158,9 +177,6 @@ No shortcuts. Just consistent daily learning and building.
 ```
 90-Days-Of-DevOps/
 ├── README.md
-├── .github/
-│   └── workflows/
-│       └── ci.yml
 ├── Week-01-Linux/
 ├── Week-02-Git/
 ├── Week-03-Cloud/
@@ -177,18 +193,17 @@ No shortcuts. Just consistent daily learning and building.
 
 ---
 
-## 🔥 Daily Routine
+## 🔥 Daily Routine (The Time Can Vary)
 
 ```
 1 hr  → Theory & reading
-2 hrs → Hands-on practice in Ubuntu terminal
-        → Write notes in Markdown
-        → Push to GitHub daily
+2 hrs → Hands-on practice
+       → Write notes in Markdown
+       → Push to GitHub daily
 ```
 
 ---
 
-<p align="center">
-  <b>Follow my journey → github.com/Waggepradeep</b><br><br>
-  Made with 💪 and lots of ☕
-</p>
+**Follow my journey → [github.com/Waggepradeep](https://github.com/Waggepradeep)**
+
+Made with 💪 and lots of ☕
