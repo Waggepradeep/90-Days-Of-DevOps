@@ -60,10 +60,10 @@ No shortcuts. Just consistent daily learning and building.
 | Day 22 | Load Balancers + Auto Scaling | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-04-Cloud-Advanced/Day22-alb-asg.md) | ✅ |
 | Day 23 | RDS + DynamoDB Basics | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-04-Cloud-Advanced/Day23-rds-dynamodb.md) | ✅ |
 | Day 24 | CloudWatch — Logs & Alerts | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-04-Cloud-Advanced/Day24-cloudwatch.md) | ✅ |
-| Day 25 | Route 53 + DNS Management | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-04-Cloud-Advanced/Day25-route53.md) | ⬜ |
-| Day 26 | Lambda — Serverless Basics | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-04-Cloud-Advanced/Day26-lambda.md) | ⬜ |
-| Day 27 | Cloud Security Best Practices | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-04-Cloud-Advanced/Day27-security.md) | ⬜ |
-| Day 28 | Review + Polish S3 Project | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-04-Cloud-Advanced/Day28-review.md) | ⬜ |
+| Day 25 | Route 53 + DNS Management | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-04-Cloud-Advanced/Day25-route53.md) | ✅ |
+| Day 26 | Lambda — Serverless Basics | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-04-Cloud-Advanced/Day26-lambda.md) | ✅ |
+| Day 27 | Cloud Security Best Practices | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-04-Cloud-Advanced/Day27-security.md) | ✅ |
+| Day 28 | Review + Polish S3 Project | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-04-Cloud-Advanced/Day28-review.md) | ✅ |
 
 ---
 

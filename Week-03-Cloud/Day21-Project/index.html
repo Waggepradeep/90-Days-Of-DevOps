@@ -3,90 +3,281 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pradeep | DevOps Journey</title>
+    <title>Pradeep | DevOps Engineer</title>
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
+
         body {
             font-family: 'Segoe UI', sans-serif;
             background: #0f172a;
             color: #e2e8f0;
             min-height: 100vh;
-            display: flex;
-            justify-content: center;
-            align-items: center;
         }
-        .container {
+
+        header {
             text-align: center;
-            padding: 40px;
-            max-width: 600px;
+            padding: 60px 20px 40px;
+            border-bottom: 1px solid #1e293b;
         }
+
+        .avatar {
+            width: 80px;
+            height: 80px;
+            background: linear-gradient(135deg, #38bdf8, #6366f1);
+            border-radius: 50%;
+            margin: 0 auto 20px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 2rem;
+        }
+
+        h1 { font-size: 2rem; color: #f8fafc; margin-bottom: 8px; }
+        h1 span { color: #38bdf8; }
+
+        .subtitle {
+            color: #94a3b8;
+            font-size: 1rem;
+            margin-bottom: 16px;
+        }
+
+        .badges {
+            display: flex;
+            gap: 8px;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+
         .badge {
-            display: inline-block;
             background: #1e293b;
             border: 1px solid #334155;
             border-radius: 20px;
-            padding: 6px 16px;
-            font-size: 13px;
+            padding: 4px 12px;
+            font-size: 12px;
             color: #38bdf8;
-            margin-bottom: 24px;
         }
-        h1 {
-            font-size: 2.5rem;
-            color: #f8fafc;
-            margin-bottom: 12px;
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 40px 20px;
         }
-        h1 span { color: #38bdf8; }
-        .subtitle {
-            color: #94a3b8;
+
+        .section-title {
             font-size: 1.1rem;
-            margin-bottom: 32px;
+            color: #94a3b8;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            margin-bottom: 20px;
+            margin-top: 40px;
         }
-        .cards {
+
+        .grid {
             display: grid;
-            grid-template-columns: 1fr 1fr;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
             gap: 16px;
-            margin-bottom: 32px;
         }
+
         .card {
             background: #1e293b;
             border: 1px solid #334155;
             border-radius: 12px;
             padding: 20px;
-            text-align: left;
         }
-        .card h3 { color: #38bdf8; font-size: 0.85rem; margin-bottom: 6px; }
-        .card p { color: #cbd5e1; font-size: 0.95rem; }
-        .footer {
+
+        .card-icon { font-size: 1.5rem; margin-bottom: 10px; }
+        .card h3 { color: #38bdf8; font-size: 0.9rem; margin-bottom: 6px; }
+        .card p { color: #94a3b8; font-size: 0.85rem; line-height: 1.5; }
+
+        .projects { display: grid; gap: 16px; }
+
+        .project-card {
+            background: #1e293b;
+            border: 1px solid #334155;
+            border-radius: 12px;
+            padding: 24px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 12px;
+        }
+
+        .project-info h3 { color: #f8fafc; margin-bottom: 6px; }
+        .project-info p { color: #94a3b8; font-size: 0.85rem; }
+
+        .tech-tags { display: flex; gap: 6px; flex-wrap: wrap; margin-top: 8px; }
+
+        .tag {
+            background: #0f172a;
+            border: 1px solid #334155;
+            border-radius: 6px;
+            padding: 2px 8px;
+            font-size: 11px;
+            color: #64748b;
+        }
+
+        .btn {
+            background: #38bdf8;
+            color: #0f172a;
+            padding: 8px 16px;
+            border-radius: 8px;
+            font-size: 13px;
+            font-weight: 600;
+            text-decoration: none;
+            white-space: nowrap;
+        }
+
+        .journey {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
+            gap: 12px;
+        }
+
+        .week-card {
+            background: #1e293b;
+            border: 1px solid #334155;
+            border-radius: 10px;
+            padding: 16px;
+            text-align: center;
+        }
+
+        .week-card.done { border-color: #22c55e; }
+        .week-card.done .week-num { color: #22c55e; }
+        .week-card.progress { border-color: #38bdf8; }
+        .week-card.progress .week-num { color: #38bdf8; }
+        .week-num { font-size: 1.2rem; font-weight: 700; }
+        .week-topic { font-size: 0.75rem; color: #64748b; margin-top: 4px; }
+
+        footer {
+            text-align: center;
+            padding: 40px 20px;
             color: #475569;
             font-size: 0.85rem;
+            border-top: 1px solid #1e293b;
         }
-        .footer span { color: #38bdf8; }
+
+        footer span { color: #38bdf8; }
     </style>
 </head>
 <body>
+
+    <header>
+        <div class="avatar">👨‍💻</div>
+        <h1>Hi, I'm <span>W Pradeep</span></h1>
+        <p class="subtitle">Final Year CSE @ UVCE · Aspiring DevOps Engineer · Bengaluru</p>
+        <div class="badges">
+            <span class="badge">☁️ AWS</span>
+            <span class="badge">🐧 Linux</span>
+            <span class="badge">🔧 DevOps</span>
+            <span class="badge">📦 Docker (coming)</span>
+            <span class="badge">⚙️ Terraform (coming)</span>
+        </div>
+    </header>
+
     <div class="container">
-        <div class="badge">🚀 90 Days of DevOps</div>
-        <h1>Hi, I'm <span>Pradeep</span></h1>
-        <p class="subtitle">Final Year CSE @ UVCE · Aspiring DevOps Engineer</p>
-        <div class="cards">
+
+        <p class="section-title">Skills</p>
+        <div class="grid">
             <div class="card">
-                <h3>☁️ CLOUD</h3>
-                <p>AWS EC2, S3, VPC, CLI</p>
+                <div class="card-icon">☁️</div>
+                <h3>AWS Cloud</h3>
+                <p>EC2, S3, VPC, IAM, RDS, Lambda, CloudWatch, Route 53, ALB, Auto Scaling</p>
             </div>
             <div class="card">
-                <h3>🐧 LINUX</h3>
-                <p>Ubuntu, Bash Scripting</p>
+                <div class="card-icon">🐧</div>
+                <h3>Linux</h3>
+                <p>Ubuntu, File permissions, Processes, Networking, Bash scripting</p>
             </div>
             <div class="card">
-                <h3>🔧 DEVOPS</h3>
-                <p>Git, GitHub Actions</p>
+                <div class="card-icon">🔀</div>
+                <h3>Git & GitHub</h3>
+                <p>Branching, Merging, GitHub Actions CI/CD, Pull Requests</p>
             </div>
             <div class="card">
-                <h3>📦 COMING SOON</h3>
-                <p>Docker, K8s, Terraform</p>
+                <div class="card-icon">⌨️</div>
+                <h3>CLI & Automation</h3>
+                <p>AWS CLI, Bash scripts, Deploy automation, S3 sync</p>
             </div>
         </div>
-        <p class="footer">Hosted on <span>AWS S3</span> · Deployed via <span>AWS CLI</span></p>
+
+        <p class="section-title">Projects</p>
+        <div class="projects">
+            <div class="project-card">
+                <div class="project-info">
+                    <h3>🚀 S3 Static Portfolio Site</h3>
+                    <p>Personal portfolio hosted on AWS S3, deployed via CLI automation script</p>
+                    <div class="tech-tags">
+                        <span class="tag">AWS S3</span>
+                        <span class="tag">AWS CLI</span>
+                        <span class="tag">Bash</span>
+                        <span class="tag">HTML/CSS</span>
+                    </div>
+                </div>
+                <a class="btn" href="#">Live ↗</a>
+            </div>
+            <div class="project-card">
+                <div class="project-info">
+                    <h3>🔧 CI/CD Pipeline</h3>
+                    <p>Full pipeline — Code → Build → Test → Deploy to AWS (coming Day 68)</p>
+                    <div class="tech-tags">
+                        <span class="tag">GitHub Actions</span>
+                        <span class="tag">Docker</span>
+                        <span class="tag">AWS ECS</span>
+                    </div>
+                </div>
+                <span class="btn" style="background:#334155;color:#64748b;">Soon</span>
+            </div>
+            <div class="project-card">
+                <div class="project-info">
+                    <h3>☸️ K8s Microservice</h3>
+                    <p>Containerized microservice deployed on Kubernetes (coming Day 42)</p>
+                    <div class="tech-tags">
+                        <span class="tag">Docker</span>
+                        <span class="tag">Kubernetes</span>
+                        <span class="tag">Helm</span>
+                    </div>
+                </div>
+                <span class="btn" style="background:#334155;color:#64748b;">Soon</span>
+            </div>
+        </div>
+
+        <p class="section-title">90 Days Journey</p>
+        <div class="journey">
+            <div class="week-card done">
+                <div class="week-num">W1–2</div>
+                <div class="week-topic">Linux + Git</div>
+            </div>
+            <div class="week-card done">
+                <div class="week-num">W3–4</div>
+                <div class="week-topic">AWS Cloud</div>
+            </div>
+            <div class="week-card progress">
+                <div class="week-num">W5–6</div>
+                <div class="week-topic">Docker + K8s</div>
+            </div>
+            <div class="week-card">
+                <div class="week-num">W7–8</div>
+                <div class="week-topic">Terraform</div>
+            </div>
+            <div class="week-card">
+                <div class="week-num">W9–10</div>
+                <div class="week-topic">CI/CD</div>
+            </div>
+            <div class="week-card">
+                <div class="week-num">W11–12</div>
+                <div class="week-topic">Monitoring</div>
+            </div>
+        </div>
+
     </div>
+
+    <footer>
+        Hosted on <span>AWS S3</span> ·
+        Deployed via <span>AWS CLI</span> ·
+        Part of <span>90 Days of DevOps</span> ·
+        <a href="https://github.com/Waggepradeep/90-Days-Of-DevOps" style="color:#38bdf8;">GitHub ↗</a>
+    </footer>
+
 </body>
 </html>
