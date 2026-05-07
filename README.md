@@ -63,7 +63,7 @@ No shortcuts. Just consistent daily learning and building.
 | Day 25 | Route 53 + DNS Management | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-04-Cloud-Advanced/Day25-route53.md) | ✅ |
 | Day 26 | Lambda — Serverless Basics | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-04-Cloud-Advanced/Day26-lambda.md) | ✅ |
 | Day 27 | Cloud Security Best Practices | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-04-Cloud-Advanced/Day27-security.md) | ✅ |
-| Day 28 | Review + Polish S3 Project | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-04-Cloud-Advanced/Day28-review.md) | ✅ |
+| Day 28 | Review + Polish S3 Project | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-04-Cloud-Advanced) | ✅ |
 
 ---
 
