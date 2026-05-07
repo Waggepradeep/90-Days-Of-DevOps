@@ -41,10 +41,10 @@ No shortcuts. Just consistent daily learning and building.
 | Day 08 | Git Basics — init, add, commit | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-02-Git/Day08-git-basics.md) | ✅ |
 | Day 09 | Git — log, diff, restore, .gitignore | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-02-Git/Day09-git-intermediate.md) | ✅ |
 | Day 10 | Git Branches — create, merge, rebase | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-02-Git/Day10-branches.md) | ✅ |
-| Day 11 | Git — stash, cherry-pick, conflicts | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-02-Git/Day11-advanced-git.md) | ✅ |
+| Day 11 | Git — stash, cherry-pick, conflicts | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-02-Git/Day11-github.md) | ✅ |
 | Day 12 | GitHub — CI Triggers & README Writing | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-02-Git/Day12-github-ci-readme.md) | ✅ |
-| Day 13 | GitHub — Actions Advanced, Secrets, Matrix | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-02-Git/Day13-github-advanced.md) | ✅ |
-| Day 14 | Review + Push all notes to GitHub | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-02-Git/Day14-review.md) | ✅ |
+| Day 13 | GitHub — Actions Advanced, Secrets, Matrix | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-02-Git/Day13-review.md) | ✅ |
+| Day 14 | Review + Push all notes to GitHub | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-02-Git/Day14-terminal-push.md) | ✅ |
 
 #### Week 3–4 · Cloud Fundamentals (AWS)
 
@@ -52,18 +52,18 @@ No shortcuts. Just consistent daily learning and building.
 | --- | --- | --- | --- |
 | Day 15 | AWS Overview + Free Tier Setup | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-03-Cloud/Day15-aws-intro.md) | ✅ |
 | Day 16 | IAM — Users, Roles, Policies | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-03-Cloud/Day16-iam.md) | ✅ |
-| Day 17 | EC2 — Launch, SSH, Security Groups | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-03-Cloud/Day17-ec2.md) | ✅ |
-| Day 18 | S3 — Buckets, Policies, Static Website | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-03-Cloud/Day18-s3.md) | ✅ |
-| Day 19 | VPC — Subnets, Route Tables, IGW | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-03-Cloud/Day19-vpc.md) | ✅ |
-| Day 20 | AWS CLI Setup + Basic Commands | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-03-Cloud/Day20-aws-cli.md) | ✅ |
-| Day 21 | Review + Mini Project (Static Site on S3 via CLI) | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-03-Cloud/Day21-mini-project.md) | ✅ |
-| Day 22 | Load Balancers + Auto Scaling | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-04-Cloud-Advanced/Day22-alb-asg.md) | ✅ |
-| Day 23 | RDS + DynamoDB Basics | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-04-Cloud-Advanced/Day23-rds-dynamodb.md) | ✅ |
-| Day 24 | CloudWatch — Logs & Alerts | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-04-Cloud-Advanced/Day24-cloudwatch.md) | ✅ |
-| Day 25 | Route 53 + DNS Management | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-04-Cloud-Advanced/Day25-route53.md) | ✅ |
-| Day 26 | Lambda — Serverless Basics | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-04-Cloud-Advanced/Day26-lambda.md) | ✅ |
-| Day 27 | Cloud Security Best Practices | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-04-Cloud-Advanced/Day27-security.md) | ✅ |
-| Day 28 | Review + Polish S3 Project | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-04-Cloud-Advanced) | ✅ |
+| Day 17 | EC2 — Launch, SSH, Security Groups | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-03-Cloud/Day17-EC2.md) | ✅ |
+| Day 18 | S3 — Buckets, Policies, Static Website | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-03-Cloud/Day18-S3.md) | ✅ |
+| Day 19 | VPC — Subnets, Route Tables, IGW | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-03-Cloud/Day19-VPC.md) | ✅ |
+| Day 20 | AWS CLI Setup + Basic Commands | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-03-Cloud/Day20-AWS-CLI.md) | ✅ |
+| Day 21 | Review + Mini Project (Static Site on S3 via CLI) | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-03-Cloud/Day21-S3-CLI-Project.md) | ✅ |
+| Day 22 | Load Balancers + Auto Scaling | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-04-Cloud-Advanced/Day22-ALB-ASG.md) | ✅ |
+| Day 23 | RDS + DynamoDB Basics | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-04-Cloud-Advanced/Day23-RDS-Dynamodb.md) | ✅ |
+| Day 24 | CloudWatch — Logs & Alerts | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-04-Cloud-Advanced/Day24-Cloudwatch.md) | ✅ |
+| Day 25 | Route 53 + DNS Management | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-04-Cloud-Advanced/Day25-Route53.md) | ✅ |
+| Day 26 | Lambda — Serverless Basics | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-04-Cloud-Advanced/Day26-Lambda.md) | ✅ |
+| Day 27 | Cloud Security Best Practices | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-04-Cloud-Advanced/Day27-Security.md) | ✅ |
+| Day 28 | Review + Polish S3 Project | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-04-Cloud-Advanced/Day28-Review.md) | ✅ |
 
 ---
 
