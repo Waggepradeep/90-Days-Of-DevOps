@@ -73,20 +73,20 @@ No shortcuts. Just consistent daily learning and building.
 
 | Day | Topic | Notes | Status |
 | --- | --- | --- | --- |
-| Day 29 | Docker Intro — Images & Containers | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-05-Docker/Day29-docker-intro.md) | ⬜ |
-| Day 30 | Dockerfile — Writing & Building | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-05-Docker/Day30-dockerfile.md) | ⬜ |
-| Day 31 | Docker Volumes & Networks | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-05-Docker/Day31-volumes-networks.md) | ⬜ |
-| Day 32 | Docker Compose — Multi-Container Apps | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-05-Docker/Day32-compose.md) | ⬜ |
-| Day 33 | Docker Hub + ECR — Image Registry | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-05-Docker/Day33-registry.md) | ⬜ |
-| Day 34 | Kubernetes — Architecture & Core Concepts | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-06-Kubernetes/Day34-k8s-basics.md) | ⬜ |
-| Day 35 | Kubernetes — Pods, Deployments & ReplicaSets | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-06-Kubernetes/Day35-k8s-pods-deployments.md) | ⬜ |
-| Day 36 | Kubernetes — Services & kubectl Commands | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-06-Kubernetes/Day36-k8s-services.md) | ⬜ |
-| Day 37 | Kubernetes — ConfigMaps & Secrets | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-06-Kubernetes/Day37-k8s-configmaps-secrets.md) | ⬜ |
-| Day 38 | Kubernetes — Ingress & Namespaces | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-06-Kubernetes/Day38-k8s-ingress-namespaces.md) | ⬜ |
-| Day 39 | Kubernetes — Persistent Volumes & Storage | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-06-Kubernetes/Day39-k8s-storage.md) | ⬜ |
-| Day 40 | Helm — Package Manager for Kubernetes | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-06-Kubernetes/Day40-helm.md) | ⬜ |
-| Day 41 | Kubernetes on AWS — EKS Overview | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-06-Kubernetes/Day41-eks.md) | ⬜ |
-| Day 42 | Project 2 — Containerized Microservice on K8s | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-06-Kubernetes/Day42-project.md) | ⬜ |
+| Day 29 | Docker Intro — Images & Containers | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-05-Docker/Day29-Docker-Basics.md) | ✅ |
+| Day 30 | Dockerfile — Writing & Building | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-05-Docker/Day30-DockerFile.md) | ✅ |
+| Day 31 | Docker Volumes & Networks | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-05-Docker/Day31-Volumes-Networks.md) | ✅ |
+| Day 32 | Docker Compose — Multi-Container Apps | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-05-Docker/Day32-Compose.md) | ✅ |
+| Day 33 | Docker Hub + ECR — Image Registry | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-05-Docker/Day33-Registry.md) | ✅ |
+| Day 34 | Kubernetes — Architecture & Core Concepts | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-06-Kubernetes/Day34-K8s-Basics.md) | ✅ |
+| Day 35 | Kubernetes — Pods, Deployments & ReplicaSets | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-06-Kubernetes/Day35-K8s-Deployments.md) | ✅ |
+| Day 36 | Kubernetes — Services & kubectl Commands | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-06-Kubernetes/Day36-K8s-Services.md) | ✅ |
+| Day 37 | Kubernetes — ConfigMaps & Secrets | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-06-Kubernetes/Day37-K8s-Configmaps-Secrets.md) | ✅ |
+| Day 38 | Kubernetes — Ingress & Namespaces | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-06-Kubernetes/Day38-K8s-Ingress-Namespaces.md) | ✅ |
+| Day 39 | Kubernetes — Persistent Volumes & Storage | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-06-Kubernetes/Day39-K8s-Storage.md) | ✅ |
+| Day 40 | Helm — Package Manager for Kubernetes | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-06-Kubernetes/Day40-Helm.md) | ✅ |
+| Day 41 | Kubernetes on AWS — EKS Overview | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-06-Kubernetes/Day41-EKS.md) | ✅ |
+| Day 42 | Project 2 — Containerized Microservice on K8s | [📝 Notes](https://github.com/Waggepradeep/90-Days-Of-DevOps/blob/main/Week-06-Kubernetes/Day42-Project2.md) | ✅ |
 
 #### Week 7–8 · Terraform + Ansible + Automation
 
@@ -163,7 +163,7 @@ No shortcuts. Just consistent daily learning and building.
 | --- | --- | --- | --- | --- |
 | 0 | S3 Static Site — DevOps Portfolio Page | AWS S3, AWS CLI, Bash | [🔗 Live](http://devops-day21-pradeep-001.s3-website.ap-south-1.amazonaws.com) | ✅ |
 | 1 | Full CI/CD Pipeline — Code to Deploy | GitHub Actions, Jenkins, Docker, AWS ECS | Coming Soon | ⬜ |
-| 2 | Containerized Microservice on Kubernetes | Docker, Kubernetes, Helm, AWS EKS | Coming Soon | ⬜ |
+| 2 | Containerized Microservice on Kubernetes | Docker, Kubernetes, Flask, Redis | [🐳 Docker Hub](https://hub.docker.com/r/silosw369/devops-microservice) | ✅ |
 | 3 | Cloud Infrastructure with IaC | Terraform, Ansible, AWS VPC + EC2 | Coming Soon | ⬜ |
 | 4 | Monitoring Dashboard | Prometheus, Grafana, CloudWatch | Coming Soon | ⬜ |
 
